@@ -10,7 +10,7 @@ which are i.i.d and drawn from a 1d Gaussian which likelihood function is given 
 
 ![](equations/eq_1.png)
 
-Where the conjugate prior distributions for $\mu$ and $\tau$ is given by:
+Where the conjugate prior distributions for ![](equations/eq_1.5.png) is given by:
 
 ![](equations/eq_2.png)
 
