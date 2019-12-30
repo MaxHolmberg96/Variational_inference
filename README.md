@@ -1,5 +1,7 @@
 # Variational inference applied to a univariate Gaussian
 
+### Implementation and more is provided in the notebook "Variational_inference_UG.ipynb"
+
 ##### Adapted from the two books: Pattern Recognition and Machine Learning Christopher M. Bishop and A Probabilistic Perspective Murphy 2012.
 
 Given a data set:
