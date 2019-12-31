@@ -31,3 +31,7 @@ The following video sequence was generated with 15 data points and the following
 And the following shows the exact posterior with the approximate:
 
 ![Alt Text](vi_ug_exact_20.gif)
+
+Where the exact posterior is given by:
+
+![](equations/eq_6.png)
