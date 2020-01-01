@@ -28,7 +28,7 @@ The following video sequence was generated with 15 data points and the following
 
 ![Alt Text](vi_ug_15.gif)
 
-And the following shows the exact posterior with the approximate:
+And the following shows the exact posterior with the approximate (20 data points):
 
 ![Alt Text](vi_ug_exact_20.gif)
 
