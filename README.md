@@ -35,3 +35,5 @@ And the following shows the exact posterior with the approximate (20 data points
 Where the exact posterior is given by:
 
 ![](equations/eq_6.png)
+
+Murphy, K. P. (2007). Conjugate Bayesian analysis of the Gaussian distribution. def, 1(2σ2), 16.
